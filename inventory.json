@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "USB-C Cable",
+    "Quantity": 35,
+    "UnitPrice": 4.99,
+    "CreatedAt": "2025-08-15T09:14:32.8876741Z",
+    "Category": "Accessories"
+  },
+  {
+    "Id": 2,
+    "Name": "Wireless Mouse",
+    "Quantity": 15,
+    "UnitPrice": 19.99,
+    "CreatedAt": "2025-08-15T09:14:32.7385166Z",
+    "Category": "Peripherals"
+  },
+  {
+    "Id": 3,
+    "Name": "Laptop 14\u0022 Model X",
+    "Quantity": 5,
+    "UnitPrice": 899.00,
+    "CreatedAt": "2025-08-15T09:14:32.7385168Z",
+    "Category": "Electronics"
+  }
+]

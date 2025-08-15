@@ -1,0 +1,8 @@
+# Sample input -- Id,Name,Score
+101, Alice Smith, 84
+102, Bob Joe, 71
+103, Charlie K, 45
+104, Dana, 59
+105, Ed , 38
+badline without enough fields
+106, Frank, notanumber
